@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783385296088",
+    "project_id": "aplikasi-manajemen-barang",
+    "storage_bucket": "aplikasi-manajemen-barang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783385296088:android:9f316f0e385cc08d10ebad",
+        "android_client_info": {
+          "package_name": "com.example.manajemenbarangapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5LTPHuN1LkGuLo4F-wHuWFXspgHZnt-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
